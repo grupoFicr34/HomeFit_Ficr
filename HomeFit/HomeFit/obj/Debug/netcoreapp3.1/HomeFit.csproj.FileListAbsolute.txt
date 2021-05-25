@@ -1,0 +1,7 @@
+C:\ProjetoHomeFit\HomeFit\HomeFit\obj\Debug\netcoreapp3.1\HomeFit.csprojAssemblyReference.cache
+C:\ProjetoHomeFit\HomeFit\HomeFit\obj\Debug\netcoreapp3.1\HomeFit.Properties.Resources.resources
+C:\ProjetoHomeFit\HomeFit\HomeFit\obj\Debug\netcoreapp3.1\HomeFit.View.TelaInicial.resources
+C:\ProjetoHomeFit\HomeFit\HomeFit\obj\Debug\netcoreapp3.1\HomeFit.csproj.GenerateResource.cache
+C:\ProjetoHomeFit\HomeFit\HomeFit\obj\Debug\netcoreapp3.1\HomeFit.AssemblyInfoInputs.cache
+C:\ProjetoHomeFit\HomeFit\HomeFit\obj\Debug\netcoreapp3.1\HomeFit.AssemblyInfo.cs
+C:\ProjetoHomeFit\HomeFit\HomeFit\obj\Debug\netcoreapp3.1\HomeFit.csproj.CoreCompileInputs.cache
